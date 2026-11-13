@@ -1,8 +1,10 @@
-## Hi, I'm Lucius Kou
+## Hi, I'm Lucius Kou 👋
 
-I'm a first-year master's student in Peking university.
+I'm a first-year master's student in Fin-Tech at **Peking University**.
+
+My research interests include **multimodal learning**, **generative models** and **reinforcement learning**.
 
 ## Selected Projects
 
-- **MiniGen** — 图像生成项目。
-- **[OmniPlus](https://github.com/luminoso909/Omni-plus)** — 基于 Qwen3 的多模态实验项目，已在本地验证小样本训练、断点恢复，以及文本与音频 GRPO 流程。
+- **[MiniGen](https://github.com/luminoso909/MiniGen)** — 文本条件图像生成
+- **[OmniPlus](https://github.com/luminoso909/Omni-plus)** — 多模态模型实验
