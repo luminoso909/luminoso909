@@ -1,6 +1,6 @@
-# Hi, I'm Lucius
+## Hi, I'm Lucius Kou
 
-I'm a first-year master's student.
+I'm a first-year master's student in Peking university.
 
 ## Selected Projects
 
